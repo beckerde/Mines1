@@ -1,0 +1,5 @@
+Kurzbeschreibung des Spiels:
+
+Minesweeper - Pacman - Doom. :-)
+
+Nur eine Testdatei.
